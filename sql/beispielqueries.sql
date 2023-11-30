@@ -1,0 +1,1 @@
+select id, name, ueberschrift, notizen, endDate, wichtigkeit from Planer;
